@@ -1,0 +1,1 @@
+agréguele texto, guárdelo y prepárelo. Puede utilizar git add .para agregar todos los archivos en el directorio actual y todos los directorios posteriores al área de preparación. Luego, escribe git statusuna vez más y todo debería estar ahora en el área de preparación.
